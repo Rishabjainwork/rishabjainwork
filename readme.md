@@ -23,7 +23,7 @@ I love building futuristic web experiences, experimenting with AI tools, and cre
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nextjs,nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nextjs,nodejs,git,github,vscode,unix" />
 </p>
 
 ---

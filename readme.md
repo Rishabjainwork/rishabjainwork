@@ -66,7 +66,7 @@ Both teach me something.
 
 ## 🧩 How I Learn
 
-```text
+text
 Learn the concept
       ↓
 Understand how it works internally

@@ -1,51 +1,85 @@
-<h1 align="center">Hey 👋, I'm Rishab Jain</h1>
+# Hey, I'm Rishab Jain 👋
 
-<h3 align="center">
-🚀 Developer • AI Explorer • Creative Builder
-</h3>
+### Developer • Builder • Problem Solver
 
-<p align="center">
-I love building futuristic web experiences, experimenting with AI tools, and creating cool projects that mix creativity with code.
-</p>
+I like understanding how things work, breaking them apart, and building my own version of them.
+
+I'm currently exploring **software development, AI, automation, backend systems, and computer science fundamentals** — while constantly building projects to turn what I learn into something real.
 
 ---
 
-## 🌌 About Me
+## 🚀 What I'm Working On
 
-- 💻 Currently learning **JavaScript, React, Next.js, and AI workflows**
-- 🤖 Exploring **local AI models, automation, and developer tools**
-- 🎮 Interested in **game development and immersive UI**
-- ⚡ I enjoy building things that look futuristic and feel interactive
-- 📚 Always learning something new
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nextjs,nodejs,git,github,vscode,unix" />
-</p>
+- 🧠 Learning **Data Structures & Algorithms** through problem solving
+- 💻 Building projects with **C++, Python, JavaScript & React**
+- 🤖 Exploring **AI, LLMs, RAG and automation**
+- 🌐 Learning **backend development and databases**
+- 🔧 Experimenting with **APIs, browser automation and developer tools**
+- 🌱 Exploring **open-source projects** and learning how real-world repositories are structured
 
 ---
 
-## 🧠 Currently Working On
+## 🛠️ Tech Stack
 
-- AI-powered projects
-- Modern web development
-- Interactive portfolio designs
-- Game experiments
-- Open source learning
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🔨 Projects
 
-### 🎮 My Game Project
-A fun browser game with sound effects, animations, and polished UI.
+### 🤖 AI & Automation
 
-🔗 https://github.com/rishabjainwork
+Building tools that automate repetitive tasks and experiment with AI-powered workflows.
+
+### 🌐 Web Projects
+
+Creating websites and web applications to learn modern frontend and backend development.
+
+### 🧪 Experimental Projects
+
+I build weird ideas just to answer:
+
+> **"What if I actually built this?"**
+
+Some are useful.
+
+Some are completely unnecessary.
+
+Both teach me something.
 
 ---
+
+## 🧩 How I Learn
+
+```text
+Learn the concept
+      ↓
+Understand how it works internally
+      ↓
+Build something with it
+      ↓
+Break it
+      ↓
+Debug it
+      ↓
+Understand why it broke
+      ↓
+Build it better
 
 ## 📊 GitHub Stats
 

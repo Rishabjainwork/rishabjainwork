@@ -19,11 +19,11 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently working on **[DSA]**
-- 🌱 I'm currently learning **[Technology / Framework]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **YOUR-EMAIL@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🌱 I'm currently learning **[backend professionally]**
+- 👯 I'm looking to collaborate on **[web browsers]**
+- 💬 Ask me about **[web scraping]**
+- 📫 How to reach me: **rishabjain.workpro@gmail.com**
+- ⚡ Fun fact: **[I am more than just a collage student]**
 
 ---
 
